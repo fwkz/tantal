@@ -1,0 +1,41 @@
+#container {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+#up {
+    background-color: #FF0000;
+    height: 33%;
+    margin: 0 auto;
+    width: 33%;
+}
+
+#down {
+    background-color: #6495ED;
+    height: 33%;
+    width: 33%;
+    margin: 0 auto;
+}
+
+#right {
+    background-color: #228B22;
+    display: inline-block;
+    height: 100%;
+    width: 33%;
+    margin: 0 auto;
+}
+
+#left {
+    background-color: #FFFF00;
+    display: inline-block;
+    height: 100%;
+    width: 33%;
+    margin: 0 auto;
+}
+
+#mid {
+    height: 33%;
+    margin: 0 auto;
+    display: flex;
+}
